@@ -4,3 +4,5 @@ It is made with html and css flexbox, it is a very simple page that only has a v
 
 The idea and resources of this page were taken from: FrontendMentor
 https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
+
+https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design
