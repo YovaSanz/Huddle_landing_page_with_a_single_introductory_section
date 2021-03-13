@@ -5,10 +5,10 @@ It is made with html and css flexbox, it is a very simple page that only has a v
 The idea and resources of this page were taken from: FrontendMentor
 https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
-![](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/01.png)
+![imagen 1](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/01.png)
 
-![](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/02.png)
+![imagen 2](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/02.png)
 
-![](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/03.png)
+![imagen 3](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/03.png)
 
-![](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/04.png)
+![imagen 4](https://raw.githubusercontent.com/YovaSanz/Huddle_landing_page_with_a_single_introductory_section/main/design/04.png)
